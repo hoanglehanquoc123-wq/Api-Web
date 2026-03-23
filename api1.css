@@ -55,3 +55,9 @@
 .hidden { display: none; }
 
 
+
+
+/* Đảm bảo các trang này không bao giờ hiện nếu không có lệnh từ JS */
+.page.hidden {
+    display: none !important;
+}
