@@ -152,6 +152,7 @@ function loadAllData() {
     fetchYouTubeSpeed();
     fetchYouTubeTheFirstTake();
     fetchYouTubeDudePerfect();
+    fetchYouTubeTzuyang();
     fetchHaNoi();
     fetchTokyo();
     fetchBeijing();
