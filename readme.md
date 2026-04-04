@@ -38,5 +38,6 @@ Dự án trang web tổng hợp dữ liệu thị trường, tin tức và thờ
 
 ## 👤 Tác giả
 - **Nguyễn Lê Hoàng**
+- Trang Quốc Huy hỗ trợ
 - Email: hoanglehanquoc123@gmail.com
 - Năm thực hiện: 2026
